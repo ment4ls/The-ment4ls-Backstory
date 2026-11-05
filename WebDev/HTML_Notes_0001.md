@@ -7,3 +7,5 @@ Does AI know how to do all of this and more? I assume so, but I won't let AI sto
 
 ## The tag dictionary
 section - this tag is a bit self-explanatory, it separates your body content into sections. Get into the habit of using this one, as it will be very helpful in grouping your content for CSS components.
+
+div - this also divides your content into sections, but there are a few things to note: I don't like using it because it tells me very little about the content in the section, unlike the "section" or "article" tags. This is still good for segmenting content that you will want to format in CSS as well, though.
