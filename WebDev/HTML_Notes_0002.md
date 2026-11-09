@@ -1,0 +1,8 @@
+# Creating Tic-Tac-Toe (with help from GenAI)
+At the time of writing, I have begun working on a mini-project for the week to get more accustomed to web development. I'm hoping it will remain a week long project, but my knowledge of scope-creep (and sub-par time management) may beg to differ.
+
+## Notable lessons of the project
+It's really hard to think of lessons this early on, but there are a few to note. 
+A lot the issues I've been having as a noob developer have been on the mental side. I think of so many things that I COULD build and how exciting the projects would be, but I never really end up building them because of a belief that I lack the skills to create them. Whilst it is definitely true that I don't currently have the skills to create a professional website that would bring tears to the eyes of a marketing agency, nor nearly enough to create a data model that could predict an entire English Premier League season with reasonable accuracy, I also don't have the skills to build Tic-Tac-Toe on my own. But I am still building it and spending a lot longer than a seasoned veteran ever could.
+The reason why I'm building something I don't know how to build is because that really is the best way to learn anything in life. It's how I learned (and continue to learn) how to write novels. It's how I learned integration. It's how I learned to play Rocket League. Walls need to be hit in order for us to grow in skill. The first time I ever used GitHub was for a group project, and I nearly deleted the entire project days from submission.
+If learning is too easy, you need to make it harder because difficulty really does cultivate improvement.
