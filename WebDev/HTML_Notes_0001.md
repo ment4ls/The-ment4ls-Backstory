@@ -6,6 +6,6 @@ In my first year of programming, I have come to realize that knowing every minut
 Does AI know how to do all of this and more? I assume so, but I won't let AI stop me from feeding my hunger for learning and neither should you!
 
 ## The tag dictionary
-section - this tag is a bit self-explanatory, it separates your body content into sections. Get into the habit of using this one, as it will be very helpful in grouping your content for CSS components.
+I've been able to learn a ton of tags, in fact, too many for me to drop in this one post. Instead, Ill make mention of any that were really prevalent in any projects I do in the future. Right now, a tag I'm exploring is the div tag, as I am using it to create a basic version of Tic-Tac-Toe. I can only see the div tag as a container of sorts for elements. It's pretty handy because I'm able to use it to create the nine boxes for my project. Yes, the project is private, but I will be making all other games I make (from 2027 onward) public for anyone interested in the journeys of making them. You can also nest multiple elements in a single div element, which is really good when you want to sort your html elements in groups.
 
-div - this also divides your content into sections, but there are a few things to note: I don't like using it because it tells me very little about the content in the section, unlike the "section" or "article" tags. This is still good for segmenting content that you will want to format in CSS as well, though.
+For now, that's all I have for this ment4l log.
